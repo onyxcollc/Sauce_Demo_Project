@@ -1,0 +1,398 @@
+2025-09-02 21:02:38,016 - support.logger - INFO - 
+Started scenario: User logging into sauce demo webpage valid credentials
+2025-09-02 21:02:38,030 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-02 21:02:38,031 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-02 21:02:38,394 - support.logger - INFO - Started step: , <when "Enter Username standard_user">
+2025-09-02 21:02:38,395 - support.logger - INFO - Entering "standard_user" in ('css selector', "[data-test='username']")
+2025-09-02 21:02:39,622 - support.logger - INFO - Started step: , <when "Enter Password secret_sauce">
+2025-09-02 21:02:39,623 - support.logger - INFO - Entering "secret_sauce" in ('css selector', "[data-test='password']")
+2025-09-02 21:02:39,676 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-02 21:02:39,677 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-02 21:02:39,764 - support.logger - INFO - Started step: , <then "Verify you are logged In">
+2025-09-02 21:02:47,331 - support.logger - INFO - 
+Started scenario: User logging into sauce demo webpage invalid credentials
+2025-09-02 21:04:07,617 - support.logger - INFO - 
+Started scenario: User logging into sauce demo webpage valid credentials
+2025-09-02 21:04:07,624 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-02 21:04:07,625 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-02 21:04:09,040 - support.logger - INFO - Started step: , <when "Enter Username standard_user">
+2025-09-02 21:04:09,040 - support.logger - INFO - Entering "standard_user" in ('css selector', "[data-test='username']")
+2025-09-02 21:04:09,125 - support.logger - INFO - Started step: , <when "Enter Password secret_sauce">
+2025-09-02 21:04:09,125 - support.logger - INFO - Entering "secret_sauce" in ('css selector', "[data-test='password']")
+2025-09-02 21:04:09,195 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-02 21:04:09,195 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-02 21:04:09,293 - support.logger - INFO - Started step: , <then "Verify you are logged In">
+2025-09-02 21:04:16,799 - support.logger - INFO - 
+Started scenario: User logging into sauce demo webpage invalid credentials
+2025-09-02 21:12:38,328 - support.logger - INFO - 
+Started scenario: User logging into sauce demo webpage valid credentials
+2025-09-02 21:12:45,044 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-02 21:12:45,045 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-02 21:12:45,314 - support.logger - INFO - Started step: , <when "Enter Username standard_user">
+2025-09-02 21:12:45,315 - support.logger - INFO - Entering "standard_user" in ('css selector', "[data-test='username']")
+2025-09-02 21:12:46,295 - support.logger - INFO - Started step: , <when "Enter Password secret_sauce">
+2025-09-02 21:12:46,295 - support.logger - INFO - Entering "secret_sauce" in ('css selector', "[data-test='password']")
+2025-09-02 21:12:46,372 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-02 21:12:46,373 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-02 21:12:46,483 - support.logger - INFO - Started step: , <then "Verify you are logged In">
+2025-09-02 21:12:53,937 - support.logger - INFO - 
+Started scenario: User logging into sauce demo webpage invalid credentials
+2025-09-02 21:12:57,432 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-02 21:12:57,432 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-02 21:12:58,715 - support.logger - INFO - Started step: , <when "Enter Username happy_user">
+2025-09-02 21:12:58,715 - support.logger - INFO - Entering "happy_user" in ('css selector', "[data-test='username']")
+2025-09-02 21:12:58,813 - support.logger - INFO - Started step: , <when "Enter Password hot_sauce">
+2025-09-02 21:12:58,813 - support.logger - INFO - Entering "hot_sauce" in ('css selector', "[data-test='password']")
+2025-09-02 21:12:58,911 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-02 21:12:58,912 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-02 21:12:59,001 - support.logger - INFO - Started step: , <then "Verify error message">
+2025-09-02 21:27:14,497 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-02 21:27:14,607 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-02 21:28:22,221 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-02 21:28:34,547 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-02 21:28:34,655 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-02 21:33:21,994 - support.logger - INFO - 
+Started scenario: User logging into sauce demo webpage valid credentials
+2025-09-02 21:33:22,000 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-02 21:33:22,001 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-02 21:33:22,894 - support.logger - INFO - Started step: , <when "Enter Username standard_user">
+2025-09-02 21:33:22,894 - support.logger - INFO - Entering "standard_user" in ('css selector', "[data-test='username']")
+2025-09-02 21:33:22,993 - support.logger - INFO - Started step: , <when "Enter Password secret_sauce">
+2025-09-02 21:33:22,994 - support.logger - INFO - Entering "secret_sauce" in ('css selector', "[data-test='password']")
+2025-09-02 21:33:23,061 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-02 21:33:23,062 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-02 21:33:23,171 - support.logger - INFO - Started step: , <then "Verify you are logged In">
+2025-09-02 21:33:30,700 - support.logger - INFO - 
+Started scenario: User logging into sauce demo webpage invalid credentials
+2025-09-02 21:37:07,680 - support.logger - INFO - 
+Started scenario: User logging into sauce demo webpage invalid credentials
+2025-09-02 21:37:07,685 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-02 21:37:07,685 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-02 21:37:08,770 - support.logger - INFO - Started step: , <when "Enter Username happy_user">
+2025-09-02 21:37:08,770 - support.logger - INFO - Entering "happy_user" in ('css selector', "[data-test='username']")
+2025-09-02 21:37:08,856 - support.logger - INFO - Started step: , <when "Enter Password hot_sauce">
+2025-09-02 21:37:08,857 - support.logger - INFO - Entering "hot_sauce" in ('css selector', "[data-test='password']")
+2025-09-02 21:37:08,924 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-02 21:37:08,925 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-02 21:37:08,999 - support.logger - INFO - Started step: , <then "Verify error message">
+2025-09-03 10:10:35,449 - support.logger - INFO - 
+Started scenario: User should be able to select items into cart
+2025-09-03 10:10:35,457 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-03 10:10:35,458 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-03 10:10:36,632 - support.logger - INFO - Started step: , <when "Enter Username standard_user">
+2025-09-03 10:10:36,633 - support.logger - INFO - Entering "standard_user" in ('css selector', "[data-test='username']")
+2025-09-03 10:10:36,723 - support.logger - INFO - Started step: , <when "Enter Password secret_sauce">
+2025-09-03 10:10:36,723 - support.logger - INFO - Entering "secret_sauce" in ('css selector', "[data-test='password']")
+2025-09-03 10:10:36,777 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-03 10:10:36,777 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-03 10:10:36,905 - support.logger - INFO - Started step: , <when "Add several items to cart">
+2025-09-03 10:10:36,906 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-backpack']")
+2025-09-03 10:10:37,982 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bike-light']")
+2025-09-03 10:10:39,029 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bolt-t-shirt']")
+2025-09-03 10:10:40,116 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-fleece-jacket']")
+2025-09-03 20:57:01,495 - support.logger - INFO - 
+Started scenario: User should be able to select items into cart
+2025-09-03 20:57:01,565 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-03 20:57:01,566 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-03 20:57:03,247 - support.logger - INFO - Started step: , <when "Enter Username standard_user">
+2025-09-03 20:57:03,248 - support.logger - INFO - Entering "standard_user" in ('css selector', "[data-test='username']")
+2025-09-03 20:57:03,336 - support.logger - INFO - Started step: , <when "Enter Password secret_sauce">
+2025-09-03 20:57:03,337 - support.logger - INFO - Entering "secret_sauce" in ('css selector', "[data-test='password']")
+2025-09-03 20:57:03,393 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-03 20:57:03,394 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-03 20:57:03,489 - support.logger - INFO - Started step: , <when "Add several items to cart">
+2025-09-03 20:57:03,489 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-backpack']")
+2025-09-03 20:57:04,552 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bike-light']")
+2025-09-03 20:57:05,602 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bolt-t-shirt']")
+2025-09-03 20:57:06,649 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-fleece-jacket']")
+2025-09-03 20:57:07,700 - support.logger - INFO - Started step: , <then "Verify cart badge number updates">
+2025-09-03 20:57:07,702 - support.logger - INFO - Searching for ('xpath', "//span[text()='4']")
+2025-09-03 21:07:42,538 - support.logger - INFO - 
+Started scenario: User should be able to select items into cart
+2025-09-03 21:07:42,546 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-03 21:07:42,547 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-03 21:07:43,949 - support.logger - INFO - Started step: , <when "Enter Username standard_user">
+2025-09-03 21:07:43,949 - support.logger - INFO - Entering "standard_user" in ('css selector', "[data-test='username']")
+2025-09-03 21:07:44,029 - support.logger - INFO - Started step: , <when "Enter Password secret_sauce">
+2025-09-03 21:07:44,029 - support.logger - INFO - Entering "secret_sauce" in ('css selector', "[data-test='password']")
+2025-09-03 21:07:44,081 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-03 21:07:44,082 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-03 21:07:44,201 - support.logger - INFO - Started step: , <when "Add several items to cart">
+2025-09-03 21:07:44,201 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-backpack']")
+2025-09-03 21:07:45,357 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bike-light']")
+2025-09-03 21:07:46,421 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bolt-t-shirt']")
+2025-09-03 21:07:47,477 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-fleece-jacket']")
+2025-09-03 21:07:48,549 - support.logger - INFO - Started step: , <then "Verify cart badge number updates">
+2025-09-03 21:09:09,527 - support.logger - INFO - 
+Started scenario: User should be able to select items into cart
+2025-09-03 21:09:42,299 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-03 21:09:42,300 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-03 21:09:43,435 - support.logger - INFO - Started step: , <when "Enter Username standard_user">
+2025-09-03 21:09:43,435 - support.logger - INFO - Entering "standard_user" in ('css selector', "[data-test='username']")
+2025-09-03 21:09:43,547 - support.logger - INFO - Started step: , <when "Enter Password secret_sauce">
+2025-09-03 21:09:43,547 - support.logger - INFO - Entering "secret_sauce" in ('css selector', "[data-test='password']")
+2025-09-03 21:09:43,636 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-03 21:09:43,636 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-03 21:09:43,758 - support.logger - INFO - Started step: , <when "Add several items to cart">
+2025-09-03 21:09:43,759 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-backpack']")
+2025-09-03 21:09:44,828 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bike-light']")
+2025-09-03 21:09:45,881 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bolt-t-shirt']")
+2025-09-03 21:09:46,949 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-fleece-jacket']")
+2025-09-03 21:09:47,997 - support.logger - INFO - Started step: , <then "Verify cart badge number updates">
+2025-09-03 21:10:32,825 - support.logger - INFO - 
+Started scenario: User should be able to select items into cart
+2025-09-03 21:10:36,329 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-03 21:10:36,330 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-03 21:10:36,986 - support.logger - INFO - Started step: , <when "Enter Username standard_user">
+2025-09-03 21:10:36,987 - support.logger - INFO - Entering "standard_user" in ('css selector', "[data-test='username']")
+2025-09-03 21:10:37,117 - support.logger - INFO - Started step: , <when "Enter Password secret_sauce">
+2025-09-03 21:10:37,117 - support.logger - INFO - Entering "secret_sauce" in ('css selector', "[data-test='password']")
+2025-09-03 21:10:37,212 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-03 21:10:37,213 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-03 21:10:37,346 - support.logger - INFO - Started step: , <when "Add several items to cart">
+2025-09-03 21:10:37,347 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-backpack']")
+2025-09-03 21:10:38,432 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bike-light']")
+2025-09-03 21:10:39,502 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bolt-t-shirt']")
+2025-09-03 21:10:40,552 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-fleece-jacket']")
+2025-09-03 21:10:41,610 - support.logger - INFO - Started step: , <then "Verify cart badge number updates">
+2025-09-03 21:11:34,483 - support.logger - INFO - 
+Started scenario: User should be able to select items into cart
+2025-09-03 21:11:34,493 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-03 21:11:34,494 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-03 21:11:36,055 - support.logger - INFO - Started step: , <when "Enter Username standard_user">
+2025-09-03 21:11:36,055 - support.logger - INFO - Entering "standard_user" in ('css selector', "[data-test='username']")
+2025-09-03 21:11:36,150 - support.logger - INFO - Started step: , <when "Enter Password secret_sauce">
+2025-09-03 21:11:36,151 - support.logger - INFO - Entering "secret_sauce" in ('css selector', "[data-test='password']")
+2025-09-03 21:11:36,224 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-03 21:11:36,225 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-03 21:11:36,336 - support.logger - INFO - Started step: , <when "Add several items to cart">
+2025-09-03 21:11:36,336 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-backpack']")
+2025-09-03 21:11:37,422 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bike-light']")
+2025-09-03 21:11:38,481 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bolt-t-shirt']")
+2025-09-03 21:11:39,543 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-fleece-jacket']")
+2025-09-03 21:11:40,602 - support.logger - INFO - Started step: , <then "Verify cart badge number updates">
+2025-09-03 21:16:38,983 - support.logger - INFO - 
+Started scenario: User should be able to select items into cart
+2025-09-03 21:16:39,000 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-03 21:16:39,001 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-03 21:16:39,247 - support.logger - INFO - Started step: , <when "Enter Username standard_user">
+2025-09-03 21:16:39,248 - support.logger - INFO - Entering "standard_user" in ('css selector', "[data-test='username']")
+2025-09-03 21:16:40,047 - support.logger - INFO - Started step: , <when "Enter Password secret_sauce">
+2025-09-03 21:16:40,047 - support.logger - INFO - Entering "secret_sauce" in ('css selector', "[data-test='password']")
+2025-09-03 21:16:40,125 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-03 21:16:40,125 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-03 21:16:40,251 - support.logger - INFO - Started step: , <when "Add several items to cart">
+2025-09-03 21:16:40,251 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-backpack']")
+2025-09-03 21:16:41,348 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bike-light']")
+2025-09-03 21:16:42,408 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bolt-t-shirt']")
+2025-09-03 21:16:43,479 - support.logger - INFO - Started step: , <then "Verify cart badge number updates">
+2025-09-03 22:21:18,464 - support.logger - INFO - 
+Started scenario: User should be able to select items into cart
+2025-09-03 22:21:18,477 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-03 22:21:18,477 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-03 22:21:19,296 - support.logger - INFO - Started step: , <when "Enter Username standard_user">
+2025-09-03 22:21:19,296 - support.logger - INFO - Entering "standard_user" in ('css selector', "[data-test='username']")
+2025-09-03 22:21:19,409 - support.logger - INFO - Started step: , <when "Enter Password secret_sauce">
+2025-09-03 22:21:19,409 - support.logger - INFO - Entering "secret_sauce" in ('css selector', "[data-test='password']")
+2025-09-03 22:21:19,499 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-03 22:21:19,499 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-03 22:21:19,619 - support.logger - INFO - Started step: , <when "Add several items to cart">
+2025-09-03 22:21:19,619 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-backpack']")
+2025-09-03 22:21:20,678 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bike-light']")
+2025-09-03 22:21:21,765 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bolt-t-shirt']")
+2025-09-03 22:21:22,827 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-fleece-jacket']")
+2025-09-03 22:21:23,885 - support.logger - INFO - Started step: , <then "Verify cart badge number updates">
+2025-09-03 22:25:10,284 - support.logger - INFO - 
+Started scenario: User should be able to select items into cart
+2025-09-03 22:25:10,291 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-03 22:25:10,292 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-03 22:25:11,131 - support.logger - INFO - Started step: , <when "Enter Username standard_user">
+2025-09-03 22:25:11,132 - support.logger - INFO - Entering "standard_user" in ('css selector', "[data-test='username']")
+2025-09-03 22:25:11,230 - support.logger - INFO - Started step: , <when "Enter Password secret_sauce">
+2025-09-03 22:25:11,231 - support.logger - INFO - Entering "secret_sauce" in ('css selector', "[data-test='password']")
+2025-09-03 22:25:11,306 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-03 22:25:11,307 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-03 22:25:11,426 - support.logger - INFO - Started step: , <when "Add several items to cart">
+2025-09-03 22:25:11,427 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-backpack']")
+2025-09-03 22:25:12,507 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bike-light']")
+2025-09-03 22:25:13,575 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bolt-t-shirt']")
+2025-09-03 22:25:14,641 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-fleece-jacket']")
+2025-09-03 22:25:15,731 - support.logger - INFO - Started step: , <when "Click cart icon">
+2025-09-03 22:25:15,731 - support.logger - INFO - CLicking on ('css selector', "[data-test='shopping-cart-link']")
+2025-09-03 22:25:17,797 - support.logger - INFO - Started step: , <when "Click Checkout button">
+2025-09-03 22:25:17,798 - support.logger - INFO - CLicking on ('css selector', "[data-test='checkout']")
+2025-09-03 22:25:19,882 - support.logger - INFO - Started step: , <then "Verify cart badge number updates">
+2025-09-03 23:03:48,764 - support.logger - INFO - 
+Started scenario: User should be able to select items into cart and checkout
+2025-09-03 23:03:48,808 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-03 23:03:48,809 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-03 23:03:49,044 - support.logger - INFO - Started step: , <when "Enter Username standard_user">
+2025-09-03 23:03:49,047 - support.logger - INFO - Entering "standard_user" in ('css selector', "[data-test='username']")
+2025-09-03 23:03:49,729 - support.logger - INFO - Started step: , <when "Enter Password secret_sauce">
+2025-09-03 23:03:49,729 - support.logger - INFO - Entering "secret_sauce" in ('css selector', "[data-test='password']")
+2025-09-03 23:03:49,826 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-03 23:03:49,827 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-03 23:03:49,941 - support.logger - INFO - Started step: , <when "Add several items to cart">
+2025-09-03 23:03:49,941 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-backpack']")
+2025-09-03 23:03:51,025 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bike-light']")
+2025-09-03 23:03:52,076 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bolt-t-shirt']")
+2025-09-03 23:03:53,153 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-fleece-jacket']")
+2025-09-03 23:03:54,198 - support.logger - INFO - Started step: , <when "Click cart icon">
+2025-09-03 23:03:54,199 - support.logger - INFO - CLicking on ('css selector', "[data-test='shopping-cart-link']")
+2025-09-03 23:03:56,267 - support.logger - INFO - Started step: , <when "Click Checkout button">
+2025-09-03 23:03:56,268 - support.logger - INFO - CLicking on ('css selector', "[data-test='checkout']")
+2025-09-03 23:03:58,341 - support.logger - INFO - Started step: , <when "Verify cart badge number updates">
+2025-09-03 23:08:09,253 - support.logger - INFO - 
+Started scenario: User should be able to select items into cart and verify cart badge
+2025-09-03 23:08:09,263 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-03 23:08:09,264 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-03 23:08:10,182 - support.logger - INFO - Started step: , <when "Enter Username standard_user">
+2025-09-03 23:08:10,182 - support.logger - INFO - Entering "standard_user" in ('css selector', "[data-test='username']")
+2025-09-03 23:08:10,274 - support.logger - INFO - Started step: , <when "Enter Password secret_sauce">
+2025-09-03 23:08:10,274 - support.logger - INFO - Entering "secret_sauce" in ('css selector', "[data-test='password']")
+2025-09-03 23:08:10,338 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-03 23:08:10,338 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-03 23:08:10,457 - support.logger - INFO - Started step: , <when "Add several items to cart">
+2025-09-03 23:08:10,458 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-backpack']")
+2025-09-03 23:08:11,537 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bike-light']")
+2025-09-03 23:08:12,603 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bolt-t-shirt']")
+2025-09-03 23:08:13,694 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-fleece-jacket']")
+2025-09-03 23:08:14,742 - support.logger - INFO - Started step: , <when "Click cart icon">
+2025-09-03 23:08:14,744 - support.logger - INFO - CLicking on ('css selector', "[data-test='shopping-cart-link']")
+2025-09-03 23:08:16,822 - support.logger - INFO - Started step: , <then "Verify cart badge number updates">
+2025-09-03 23:08:58,429 - support.logger - INFO - 
+Started scenario: User should be able to select items into cart and checkout
+2025-09-03 23:08:58,435 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-03 23:08:58,437 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-03 23:08:59,252 - support.logger - INFO - Started step: , <when "Enter Username standard_user">
+2025-09-03 23:08:59,252 - support.logger - INFO - Entering "standard_user" in ('css selector', "[data-test='username']")
+2025-09-03 23:08:59,349 - support.logger - INFO - Started step: , <when "Enter Password secret_sauce">
+2025-09-03 23:08:59,349 - support.logger - INFO - Entering "secret_sauce" in ('css selector', "[data-test='password']")
+2025-09-03 23:08:59,429 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-03 23:08:59,429 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-03 23:08:59,564 - support.logger - INFO - Started step: , <when "Add several items to cart">
+2025-09-03 23:08:59,564 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-backpack']")
+2025-09-03 23:09:00,655 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bike-light']")
+2025-09-03 23:09:01,721 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bolt-t-shirt']")
+2025-09-03 23:09:02,803 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-fleece-jacket']")
+2025-09-03 23:09:03,854 - support.logger - INFO - Started step: , <when "Click cart icon">
+2025-09-03 23:09:03,855 - support.logger - INFO - CLicking on ('css selector', "[data-test='shopping-cart-link']")
+2025-09-03 23:09:05,929 - support.logger - INFO - Started step: , <when "Click Checkout button">
+2025-09-03 23:09:05,930 - support.logger - INFO - CLicking on ('css selector', "[data-test='checkout']")
+2025-09-03 23:09:07,993 - support.logger - INFO - Started step: , <when "Fill out Checkout information">
+2025-09-03 23:09:07,994 - support.logger - INFO - Entering "Luke" in ('css selector', "[data-test='firstName']")
+2025-09-03 23:09:08,052 - support.logger - INFO - Entering "Davis" in ('css selector', "[data-test='lastName']")
+2025-09-03 23:09:08,098 - support.logger - INFO - Entering "85029" in ('css selector', "[data-test='postalCode']")
+2025-09-03 23:09:08,143 - support.logger - INFO - CLicking on (<class 'selenium.webdriver.common.by.By'>, "[data-test= 'continue']")
+2025-09-03 23:34:37,371 - support.logger - INFO - 
+Started scenario: User should be able to select items into cart and checkout
+2025-09-03 23:34:37,382 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-03 23:34:37,382 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-03 23:34:38,239 - support.logger - INFO - Started step: , <when "Enter Username standard_user">
+2025-09-03 23:34:38,239 - support.logger - INFO - Entering "standard_user" in ('css selector', "[data-test='username']")
+2025-09-03 23:34:38,328 - support.logger - INFO - Started step: , <when "Enter Password secret_sauce">
+2025-09-03 23:34:38,328 - support.logger - INFO - Entering "secret_sauce" in ('css selector', "[data-test='password']")
+2025-09-03 23:34:38,391 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-03 23:34:38,391 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-03 23:34:38,508 - support.logger - INFO - Started step: , <when "Add several items to cart">
+2025-09-03 23:34:38,508 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-backpack']")
+2025-09-03 23:34:39,594 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bike-light']")
+2025-09-03 23:34:40,658 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bolt-t-shirt']")
+2025-09-03 23:34:41,773 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-fleece-jacket']")
+2025-09-03 23:34:42,826 - support.logger - INFO - Started step: , <when "Click cart icon">
+2025-09-03 23:34:42,827 - support.logger - INFO - CLicking on ('css selector', "[data-test='shopping-cart-link']")
+2025-09-03 23:34:44,906 - support.logger - INFO - Started step: , <when "Click Checkout button">
+2025-09-03 23:34:44,907 - support.logger - INFO - CLicking on ('css selector', "[data-test='checkout']")
+2025-09-03 23:34:46,976 - support.logger - INFO - Started step: , <when "Fill out Checkout information">
+2025-09-03 23:34:46,976 - support.logger - INFO - Entering "Luke" in ('css selector', "[data-test='firstName']")
+2025-09-03 23:34:47,048 - support.logger - INFO - Entering "Davis" in ('css selector', "[data-test='lastName']")
+2025-09-03 23:34:47,103 - support.logger - INFO - Entering "85029" in ('css selector', "[data-test='postalCode']")
+2025-09-03 23:34:47,161 - support.logger - INFO - Started step: , <when "Click Continue button">
+2025-09-03 23:34:47,161 - support.logger - INFO - CLicking on ('css selector', "[data-test= 'continue']")
+2025-09-03 23:34:47,250 - support.logger - INFO - Started step: , <when "Click Finished button">
+2025-09-03 23:34:47,251 - support.logger - INFO - CLicking on ('css selector', "[data-test= 'finish']")
+2025-09-03 23:34:47,312 - support.logger - INFO - Started step: , <then "Verify Checkout Complete">
+2025-09-03 23:38:17,579 - support.logger - INFO - 
+Started scenario: User should be able to select items into cart and checkout
+2025-09-03 23:38:17,589 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-03 23:38:17,589 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-03 23:38:18,491 - support.logger - INFO - Started step: , <when "Enter Username standard_user">
+2025-09-03 23:38:18,491 - support.logger - INFO - Entering "standard_user" in ('css selector', "[data-test='username']")
+2025-09-03 23:38:18,568 - support.logger - INFO - Started step: , <when "Enter Password secret_sauce">
+2025-09-03 23:38:18,568 - support.logger - INFO - Entering "secret_sauce" in ('css selector', "[data-test='password']")
+2025-09-03 23:38:18,656 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-03 23:38:18,657 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-03 23:38:18,766 - support.logger - INFO - Started step: , <when "Add several items to cart">
+2025-09-03 23:38:18,767 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-backpack']")
+2025-09-03 23:38:19,832 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bike-light']")
+2025-09-03 23:38:20,889 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bolt-t-shirt']")
+2025-09-03 23:38:21,985 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-fleece-jacket']")
+2025-09-03 23:38:23,054 - support.logger - INFO - Started step: , <when "Click cart icon">
+2025-09-03 23:38:23,055 - support.logger - INFO - CLicking on ('css selector', "[data-test='shopping-cart-link']")
+2025-09-03 23:38:25,125 - support.logger - INFO - Started step: , <when "Click Checkout button">
+2025-09-03 23:38:25,126 - support.logger - INFO - CLicking on ('css selector', "[data-test='checkout']")
+2025-09-03 23:38:27,193 - support.logger - INFO - Started step: , <when "Fill out Checkout information">
+2025-09-03 23:38:27,194 - support.logger - INFO - Entering "Luke" in ('css selector', "[data-test='firstName']")
+2025-09-03 23:38:28,265 - support.logger - INFO - Entering "Davis" in ('css selector', "[data-test='lastName']")
+2025-09-03 23:38:29,327 - support.logger - INFO - Entering "85029" in ('css selector', "[data-test='postalCode']")
+2025-09-03 23:38:30,390 - support.logger - INFO - Started step: , <when "Click Continue button">
+2025-09-03 23:38:30,390 - support.logger - INFO - CLicking on ('css selector', "[data-test= 'continue']")
+2025-09-03 23:38:30,470 - support.logger - INFO - Started step: , <when "Click Finished button">
+2025-09-03 23:38:32,471 - support.logger - INFO - CLicking on ('css selector', "[data-test= 'finish']")
+2025-09-03 23:38:32,535 - support.logger - INFO - Started step: , <then "Verify Checkout Complete">
+2025-09-03 23:39:43,275 - support.logger - INFO - 
+Started scenario: User should be able to select items into cart and checkout
+2025-09-03 23:39:43,287 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-03 23:39:43,287 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-03 23:39:44,521 - support.logger - INFO - Started step: , <when "Enter Username standard_user">
+2025-09-03 23:39:44,521 - support.logger - INFO - Entering "standard_user" in ('css selector', "[data-test='username']")
+2025-09-03 23:39:44,625 - support.logger - INFO - Started step: , <when "Enter Password secret_sauce">
+2025-09-03 23:39:44,626 - support.logger - INFO - Entering "secret_sauce" in ('css selector', "[data-test='password']")
+2025-09-03 23:39:44,677 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-03 23:39:44,678 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-03 23:39:44,772 - support.logger - INFO - Started step: , <when "Add several items to cart">
+2025-09-03 23:39:44,773 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-backpack']")
+2025-09-03 23:39:45,842 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bike-light']")
+2025-09-03 23:39:46,908 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bolt-t-shirt']")
+2025-09-03 23:39:47,958 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-fleece-jacket']")
+2025-09-03 23:39:49,007 - support.logger - INFO - Started step: , <when "Click cart icon">
+2025-09-03 23:39:49,007 - support.logger - INFO - CLicking on ('css selector', "[data-test='shopping-cart-link']")
+2025-09-03 23:39:51,095 - support.logger - INFO - Started step: , <when "Click Checkout button">
+2025-09-03 23:39:51,096 - support.logger - INFO - CLicking on ('css selector', "[data-test='checkout']")
+2025-09-03 23:39:53,163 - support.logger - INFO - Started step: , <when "Fill out Checkout information">
+2025-09-03 23:39:53,164 - support.logger - INFO - Entering "Luke" in ('css selector', "[data-test='firstName']")
+2025-09-03 23:39:54,235 - support.logger - INFO - Entering "Davis" in ('css selector', "[data-test='lastName']")
+2025-09-03 23:39:55,304 - support.logger - INFO - Entering "85029" in ('css selector', "[data-test='postalCode']")
+2025-09-03 23:39:56,406 - support.logger - INFO - Started step: , <when "Click Continue button">
+2025-09-03 23:39:56,406 - support.logger - INFO - CLicking on ('css selector', "[data-test= 'continue']")
+2025-09-03 23:39:56,495 - support.logger - INFO - Started step: , <when "Click Finished button">
+2025-09-03 23:39:58,496 - support.logger - INFO - CLicking on ('css selector', "[data-test= 'finish']")
+2025-09-03 23:39:58,642 - support.logger - INFO - Started step: , <then "Verify Checkout Complete">
+2025-09-03 23:41:05,002 - support.logger - INFO - 
+Started scenario: User should be able to select items into cart and checkout
+2025-09-03 23:41:05,013 - support.logger - INFO - Started step: , <given "Open sauce demo webpage">
+2025-09-03 23:41:05,013 - support.logger - INFO - Opening URL: https://www.saucedemo.com/
+2025-09-03 23:41:05,834 - support.logger - INFO - Started step: , <when "Enter Username standard_user">
+2025-09-03 23:41:05,834 - support.logger - INFO - Entering "standard_user" in ('css selector', "[data-test='username']")
+2025-09-03 23:41:06,927 - support.logger - INFO - Started step: , <when "Enter Password secret_sauce">
+2025-09-03 23:41:06,928 - support.logger - INFO - Entering "secret_sauce" in ('css selector', "[data-test='password']")
+2025-09-03 23:41:07,992 - support.logger - INFO - Started step: , <when "Click Login button">
+2025-09-03 23:41:07,994 - support.logger - INFO - CLicking on ('css selector', "[data-test='login-button']")
+2025-09-03 23:41:08,118 - support.logger - INFO - Started step: , <when "Add several items to cart">
+2025-09-03 23:41:08,118 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-backpack']")
+2025-09-03 23:41:09,195 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bike-light']")
+2025-09-03 23:41:10,246 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-bolt-t-shirt']")
+2025-09-03 23:41:11,317 - support.logger - INFO - CLicking on ('css selector', "[data-test='add-to-cart-sauce-labs-fleece-jacket']")
+2025-09-03 23:41:12,380 - support.logger - INFO - Started step: , <when "Click cart icon">
+2025-09-03 23:41:12,380 - support.logger - INFO - CLicking on ('css selector', "[data-test='shopping-cart-link']")
+2025-09-03 23:41:14,454 - support.logger - INFO - Started step: , <when "Click Checkout button">
+2025-09-03 23:41:14,455 - support.logger - INFO - CLicking on ('css selector', "[data-test='checkout']")
+2025-09-03 23:41:16,529 - support.logger - INFO - Started step: , <when "Fill out Checkout information">
+2025-09-03 23:41:16,530 - support.logger - INFO - Entering "Luke" in ('css selector', "[data-test='firstName']")
+2025-09-03 23:41:17,582 - support.logger - INFO - Entering "Davis" in ('css selector', "[data-test='lastName']")
+2025-09-03 23:41:18,629 - support.logger - INFO - Entering "85029" in ('css selector', "[data-test='postalCode']")
+2025-09-03 23:41:19,697 - support.logger - INFO - Started step: , <when "Click Continue button">
+2025-09-03 23:41:19,697 - support.logger - INFO - CLicking on ('css selector', "[data-test= 'continue']")
+2025-09-03 23:41:19,768 - support.logger - INFO - Started step: , <when "Click Finished button">
+2025-09-03 23:41:21,768 - support.logger - INFO - CLicking on ('css selector', "[data-test= 'finish']")
+2025-09-03 23:41:21,829 - support.logger - INFO - Started step: , <then "Verify Checkout Complete">
