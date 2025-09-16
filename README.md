@@ -2,6 +2,8 @@
 
 A clear, reliable test suite for the SauceDemo online store. It follows the real customer journey—log in → add items → see cart updates → check out → confirm order—so product teams can trust what’s shipped.
 
+---
+
 ## ✨ What makes this project special
 
 Readable tests (BDD): Scenarios are written like short stories so anyone can understand what’s being tested.
@@ -66,25 +68,12 @@ Support: Browser setup and test run rules (start/stop, cleanup between scenarios
 
 ## 🚀 How to run (high level)
 
-Set up a Python environment and install the listed requirements.
+1. Set up a Python environment and install the listed requirements.
 
-Run the test suite from the project root (all features or a single feature).
+2. Run the test suite from the project root (all features or a single feature).
 
-Optional: add a test report tool (e.g., Allure) and wire it to CI.
+3. Optional: add a test report tool (e.g., Allure) and wire it to CI.
 
-If you prefer, I can add a GitHub Actions workflow and reporting out of the box.
-
----
-
-## 🗺️ Roadmap
-
-Allure or HTML reports with screenshots
-
-CI pipeline (GitHub Actions)
-
-More scenarios: sorting, filters, price totals, error handling
-
-Parallel execution for faster feedback
 
 ---
 
