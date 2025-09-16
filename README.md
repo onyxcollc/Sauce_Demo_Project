@@ -5,6 +5,9 @@ A clear, reliable test suite for the SauceDemo online store. It follows the real
 
 ![image alt](https://github.com/onyxcollc/Sauce_Demo_Project/blob/916bca1086ff000fb376dfde5e8e984c26527486/Screenshot%202025-09-15%20195802.png)
 
+
+https://github.com/user-attachments/assets/a736c6be-b598-45a5-93c2-f0f42f5def66
+
 ---
 
 ## ✨ What makes this project special
