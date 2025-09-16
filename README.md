@@ -2,6 +2,9 @@
 
 A clear, reliable test suite for the SauceDemo online store. It follows the real customer journey—log in → add items → see cart updates → check out → confirm order—so product teams can trust what’s shipped.
 
+
+![image alt](https://github.com/onyxcollc/Sauce_Demo_Project/blob/916bca1086ff000fb376dfde5e8e984c26527486/Screenshot%202025-09-15%20195802.png)
+
 ---
 
 ## ✨ What makes this project special
